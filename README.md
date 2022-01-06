@@ -1,2 +1,4 @@
 # Tip-Calculator-App
-Frontend Mentor project
+Frontend Mentor challenge
+
+https://frontend-tip-calculator-app.netlify.app/
